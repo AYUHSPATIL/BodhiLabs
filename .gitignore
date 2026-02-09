@@ -1,8 +1,43 @@
+# Virtual Environment
 myenv/
+env/
+venv/
+ENV/
+.venv/
+
+# Python cache
 __pycache__/
+*.py[cod]
+*$py.class
 *.pyc
-.env
+
+# Vector Store - DO NOT PUSH
 vectorstore/
-*.xlsx
-data_processed.xlsx
+chroma/
+*.sqlite3
+*.db
+
+# README files - DO NOT PUSH
+README.md
+README.txt
+*.md
+
+# IDE
 .vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Large files
+*.bin
+*.pkl
+*.pt

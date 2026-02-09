@@ -1,0 +1,871 @@
+{
+  "module_info": {
+    "course_id": "341",
+    "learning_path": "Induction",
+    "module_domain": "Evidence Informed Practice",
+    "module_category": "Advance Nursing Procedure",
+    "competency_name": "Urinary Catheterization"
+  },
+  "competencies": [
+    {
+      "id": "UCK001",
+      "embedding_text": "Competency: Introduction to Urinary Catheterization\n                    Type: Knowledge\n\n                    Definition: Definition, Purposes, Indications, Types of catheter, Size of Catheter, Catheter material, General Instructions, Articles Required.\n\n                    This competency assesses:\n                    - structural characteristics of an intermittent urinary catheter\n- aseptic technique during catheter insertion using sterile gloves drapes and antiseptic\n- appropriate clinical indications for performing urinary catheterization\n- maximum safe duration a silicone catheter can remain in situ\n- the number of lumens present in a straight urinary catheter\n- the number of lumens present in a Foley’s urinary catheter\n- appropriate catheter size commonly used in male patients\n- correct Foley’s catheter size for bladder irrigation\n- relationship between catheterization and catheter-associated urinary tract infections\n- safe volume of sterile water used to inflate a catheter balloon\n\n                    Activities: Introduction to Urinary Catheterization, Post Quiz",
+      "metadata": {
+        "doc_type": "competency",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "module_competency_definition": "Definition, Purposes, Indications, Types of catheter, Size of Catheter, Catheter material, General Instructions, Articles Required.",
+        "activity_names": "Introduction to Urinary Catheterization, Post Quiz",
+        "question_ids": "[\"66387\", \"2503\", \"2501\", \"3174\", \"3173\", \"2504\", \"82153\", \"66389\", \"3176\", \"66397\", \"66395\", \"66383\", \"3172\", \"3169\", \"66391\", \"66386\", \"66385\", \"2507\", \"66404\", \"66384\"]",
+        "question_count": 20,
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "UCS002",
+      "embedding_text": "Competency: Female Catheterization Procedure\n                    Type: Skill\n\n                    Definition: Introduction to patient, Physician prescription, Explanation of procedure, Position for procedure, Draping of patient,Cleaning of perineal area, Lubrication of the catheter, Insertion of the catheter, Inflation of foley's Catheter ballon, Attachement of urinary bag, Secure the catheter.\n\n                    This competency assesses:\n                    - correct nursing action when catheter placement enters the vagina accidentally\n- correct sequential steps of the urinary catheterization procedure\n- rationale for advancing the catheter further before balloon inflation\n- patient responses indicating balloon inflation should be stopped immediately\n- correct positioning of a female patient for catheterization\n- function of the inflatable balloon in an indwelling catheter\n\n                    Activities: Male and Female Catheterization (Procedure), Post Quiz",
+      "metadata": {
+        "doc_type": "competency",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "module_competency_definition": "Introduction to patient, Physician prescription, Explanation of procedure, Position for procedure, Draping of patient,Cleaning of perineal area, Lubrication of the catheter, Insertion of the catheter, Inflation of foley's Catheter ballon, Attachement of urinary bag, Secure the catheter.",
+        "activity_names": "Male and Female Catheterization (Procedure), Post Quiz",
+        "question_ids": "[\"3170\", \"66392\", \"2502\", \"66394\", \"2506\", \"66388\"]",
+        "question_count": 6,
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "UCS003",
+      "embedding_text": "Competency: Male Catheterization\n                    Type: Skill\n\n                    Definition: Position of the client, Cleaning of urinary meatus, Lubrication of catheter, Insertion of urinary catheter, Attachement of catheter to urinary bag, Secure the catheter, record the procedure.\n\n                    This competency assesses:\n                    - proper foreskin management during male catheterization\n- Advances a urinary catheter to the correct anatomical depth in male patients\n- purpose of lubrication during male urinary catheter insertion\n- lateral fixation of a male indwelling urinary catheter\n- nursing interventions that reduce infection risk in urinary retention catheters\n- correct position for male urinary catheter insertion\n- rationale for keeping the drainage bag below bladder level to prevent infection\n\n                    Activities: Male and Female Catheterization (Procedure), Post Quiz",
+      "metadata": {
+        "doc_type": "competency",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "module_competency_definition": "Position of the client, Cleaning of urinary meatus, Lubrication of catheter, Insertion of urinary catheter, Attachement of catheter to urinary bag, Secure the catheter, record the procedure.",
+        "activity_names": "Male and Female Catheterization (Procedure), Post Quiz",
+        "question_ids": "[\"2505\", \"3171\", \"66402\", \"66401\", \"66400\", \"66393\", \"3178\"]",
+        "question_count": 7,
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "UCK004",
+      "embedding_text": "Competency: Catheter care\n                    Type: Knowledge\n\n                    Definition: Definition, Articles\n\n                    This competency assesses:\n                    - infection-control precautions required during catheter care\n- correct principles of routine catheter care\n\n                    Activities: Removal of Indwelling Catheter and Catheter Care, Post Quiz",
+      "metadata": {
+        "doc_type": "competency",
+        "competency_id": "UCK004",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Catheter care",
+        "module_competency_definition": "Definition, Articles",
+        "activity_names": "Removal of Indwelling Catheter and Catheter Care, Post Quiz",
+        "question_ids": "[\"3177\", \"3180\"]",
+        "question_count": 2,
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "UCS005",
+      "embedding_text": "Competency: Catheter care procedure\n                    Type: Skill\n\n                    Definition: Identify patient, Explain procedure, Privacy, Position, Hand washing, wear gloves, cleaning of catheter, Cover patient.\n\n                    This competency assesses:\n                    - sterile technique while irrigating an indwelling urinary catheter to prevent infection\n- safe and hygienic emptying of a urinary drainage bag\n- female indwelling catheter care in the correct anatomical sequence\n\n                    Activities: Male and Female Catheterization (Procedure), Post Quiz",
+      "metadata": {
+        "doc_type": "competency",
+        "competency_id": "UCS005",
+        "competency_type": "Skill",
+        "module_compentency_area": "Catheter care procedure",
+        "module_competency_definition": "Identify patient, Explain procedure, Privacy, Position, Hand washing, wear gloves, cleaning of catheter, Cover patient.",
+        "activity_names": "Male and Female Catheterization (Procedure), Post Quiz",
+        "question_ids": "[\"66403\", \"3179\", \"66398\"]",
+        "question_count": 3,
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "UCS006",
+      "embedding_text": "Competency: Removal of indwelling urinary catheter\n                    Type: Skill\n\n                    Definition: Purposes, Identify patient, explain procedure, Provide privacy, Position of patient, Hand wash, Deflate the ballon, Remove catheter, Cover patient, position comfortably, Instruction to patient, Record time\n\n                    This competency assesses:\n                    - immediate post-removal assessment of an indwelling urinary catheter\n- purpose and function of indwelling urinary catheters\n- appropriate and inappropriate indications for removal of an indwelling catheter\n\n                    Activities: Removal of Indwelling Catheter and Catheter Care, Post Quiz",
+      "metadata": {
+        "doc_type": "competency",
+        "competency_id": "UCS006",
+        "competency_type": "Skill",
+        "module_compentency_area": "Removal of indwelling urinary catheter",
+        "module_competency_definition": "Purposes, Identify patient, explain procedure, Provide privacy, Position of patient, Hand wash, Deflate the ballon, Remove catheter, Cover patient, position comfortably, Instruction to patient, Record time",
+        "activity_names": "Removal of Indwelling Catheter and Catheter Care, Post Quiz",
+        "question_ids": "[\"3175\", \"2500\", \"66399\"]",
+        "question_count": 3,
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    }
+  ],
+  "mcqs": [
+    {
+      "id": "66387",
+      "embedding_text": "Question: An intermittent urinary catheter has all the below mentioned characteristic features except-\n                        Correct Answer: Made up of latex, silicon\n                        Learning Objective: structural characteristics of an intermittent urinary catheter\n                        All Options: Made up of latex, silicon | Single lumen straight plastic tube | Presence of opening at the tip of 1.3 cm | It is used for shorter duration of time\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66387",
+        "question_text": "An intermittent urinary catheter has all the below mentioned characteristic features except-",
+        "options_text": "Made up of latex, silicon | Single lumen straight plastic tube | Presence of opening at the tip of 1.3 cm | It is used for shorter duration of time",
+        "correct_option_text": "Made up of latex, silicon",
+        "question_id_competency_definition": "structural characteristics of an intermittent urinary catheter",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2503",
+      "embedding_text": "Question: Appropriate insertion follows aseptic technique which includes the use of which of the following?\n                        Correct Answer: All of the above\n                        Learning Objective: aseptic technique during catheter insertion using sterile gloves drapes and antiseptic\n                        All Options: Sterile gloves | Sterile drape sheet | Sterile skin antiseptic | All of the above\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2503",
+        "question_text": "Appropriate insertion follows aseptic technique which includes the use of which of the following?",
+        "options_text": "Sterile gloves | Sterile drape sheet | Sterile skin antiseptic | All of the above",
+        "correct_option_text": "All of the above",
+        "question_id_competency_definition": "aseptic technique during catheter insertion using sterile gloves drapes and antiseptic",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2501",
+      "embedding_text": "Question: Catheterization is performed for all of the following reasons except?\n                        Correct Answer: For relief of urinary suppression with overflow.\n                        Learning Objective: appropriate clinical indications for performing urinary catheterization\n                        All Options: To check for residual urine | To instill meds into bladder | For relief of bladder distention from urinary retention. | For relief of urinary suppression with overflow.\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2501",
+        "question_text": "Catheterization is performed for all of the following reasons except?",
+        "options_text": "To check for residual urine | To instill meds into bladder | For relief of bladder distention from urinary retention. | For relief of urinary suppression with overflow.",
+        "correct_option_text": "For relief of urinary suppression with overflow.",
+        "question_id_competency_definition": "appropriate clinical indications for performing urinary catheterization",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3174",
+      "embedding_text": "Question: How long can a silicon catheter stay in situ?\n                        Correct Answer: 12 weeks\n                        Learning Objective: maximum safe duration a silicone catheter can remain in situ\n                        All Options: 2 weeks | 12 weeks | 3 weeks | 20 weeks\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3174",
+        "question_text": "How long can a silicon catheter stay in situ?",
+        "options_text": "2 weeks | 12 weeks | 3 weeks | 20 weeks",
+        "correct_option_text": "12 weeks",
+        "question_id_competency_definition": "maximum safe duration a silicone catheter can remain in situ",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3173",
+      "embedding_text": "Question: How many lumen does a straight catheter have?\n                        Correct Answer: One\n                        Learning Objective: the number of lumens present in a straight urinary catheter\n                        All Options: Two | Three | One | None\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3173",
+        "question_text": "How many lumen does a straight catheter have?",
+        "options_text": "Two | Three | One | None",
+        "correct_option_text": "One",
+        "question_id_competency_definition": "the number of lumens present in a straight urinary catheter",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2504",
+      "embedding_text": "Question: How many lumens does a Foley catheter have?\n                        Correct Answer: 2\n                        Learning Objective: the number of lumens present in a Foley’s urinary catheter\n                        All Options: 1 | 2 | None\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2504",
+        "question_text": "How many lumens does a Foley catheter have?",
+        "options_text": "1 | 2 | None",
+        "correct_option_text": "2",
+        "question_id_competency_definition": "the number of lumens present in a Foley’s urinary catheter",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "82153",
+      "embedding_text": "Question: Normally which size of catheter used in a male patient?\n                        Correct Answer: 14-18 cm\n                        Learning Objective: appropriate catheter size commonly used in male patients\n                        All Options: 12-15 cm | 14-18 cm | 20-24 cm | 25-28 cm\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "82153",
+        "question_text": "Normally which size of catheter used in a male patient?",
+        "options_text": "12-15 cm | 14-18 cm | 20-24 cm | 25-28 cm",
+        "correct_option_text": "14-18 cm",
+        "question_id_competency_definition": "appropriate catheter size commonly used in male patients",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66389",
+      "embedding_text": "Question: Ramesh a 32 year old male is admitted in the hospital as a case of hydronephrosis and is advised for bladder irrigation. The size of Foley’s catheter that should be used for catheterizing is –\n                        Correct Answer: 14-18 Fr\n                        Learning Objective: correct Foley’s catheter size for bladder irrigation\n                        All Options: 14-18 Fr | 30-22 Fr | 22-24 Fr | 10-13 Fr\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66389",
+        "question_text": "Ramesh a 32 year old male is admitted in the hospital as a case of hydronephrosis and is advised for bladder irrigation. The size of Foley’s catheter that should be used for catheterizing is –",
+        "options_text": "14-18 Fr | 30-22 Fr | 22-24 Fr | 10-13 Fr",
+        "correct_option_text": "14-18 Fr",
+        "question_id_competency_definition": "correct Foley’s catheter size for bladder irrigation",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3176",
+      "embedding_text": "Question: State if “True” or “False”. Catheter-associated urinary tract infections are the most common cause of bacteremia (bloodstream infection) in long-term care facilities.\n                        Correct Answer: True\n                        Learning Objective: relationship between catheterization and catheter-associated urinary tract infections\n                        All Options: True | False\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3176",
+        "question_text": "State if “True” or “False”. Catheter-associated urinary tract infections are the most common cause of bacteremia (bloodstream infection) in long-term care facilities.",
+        "options_text": "True | False",
+        "correct_option_text": "True",
+        "question_id_competency_definition": "relationship between catheterization and catheter-associated urinary tract infections",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66397",
+      "embedding_text": "Question: The maximum amount of sterile water that can be used to inflate the balloon at the tip of the catheter is\n                        Correct Answer: 5-10 ml\n                        Learning Objective: safe volume of sterile water used to inflate a catheter balloon\n                        All Options: 2 ml | 50 ml | 5-10 ml | 150 ml\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66397",
+        "question_text": "The maximum amount of sterile water that can be used to inflate the balloon at the tip of the catheter is",
+        "options_text": "2 ml | 50 ml | 5-10 ml | 150 ml",
+        "correct_option_text": "5-10 ml",
+        "question_id_competency_definition": "safe volume of sterile water used to inflate a catheter balloon",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66395",
+      "embedding_text": "Question: The normal size of catheter used in a female patient is -----------\n                        Correct Answer: 12-16 Fr\n                        Learning Objective: standard catheter size used in female patients\n                        All Options: 6-10 Fr | 12-16 Fr | 16--19 Fr | 20-24 Fr\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66395",
+        "question_text": "The normal size of catheter used in a female patient is -----------",
+        "options_text": "6-10 Fr | 12-16 Fr | 16--19 Fr | 20-24 Fr",
+        "correct_option_text": "12-16 Fr",
+        "question_id_competency_definition": "standard catheter size used in female patients",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66383",
+      "embedding_text": "Question: Urinary catheterization involves inserting the Foley’s catheter\n                        Correct Answer: Through the urethra into the bladder\n                        Learning Objective: correct anatomical route for Foley’s catheter insertion\n                        All Options: Into the ureter | Through the urethra into the bladder | Through the rectum | From ureter into the bladder\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66383",
+        "question_text": "Urinary catheterization involves inserting the Foley’s catheter",
+        "options_text": "Into the ureter | Through the urethra into the bladder | Through the rectum | From ureter into the bladder",
+        "correct_option_text": "Through the urethra into the bladder",
+        "question_id_competency_definition": "correct anatomical route for Foley’s catheter insertion",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3172",
+      "embedding_text": "Question: What is the size of urinary catheter used in children?\n                        Correct Answer: 5-12 Fr\n                        Learning Objective: appropriate urinary catheter sizes used in children\n                        All Options: 5-12 Fr | 12-14 Fr | 14-16 Fr | 18 Fr\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3172",
+        "question_text": "What is the size of urinary catheter used in children?",
+        "options_text": "5-12 Fr | 12-14 Fr | 14-16 Fr | 18 Fr",
+        "correct_option_text": "5-12 Fr",
+        "question_id_competency_definition": "appropriate urinary catheter sizes used in children",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3169",
+      "embedding_text": "Question: Which among the following sizes of urinary catheter is not used for female patients?\n                        Correct Answer: 18 Fr\n                        Learning Objective: catheter sizes unsuitable for female patients\n                        All Options: 16 Fr | 18 Fr | 12 Fr | 14 Fr\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3169",
+        "question_text": "Which among the following sizes of urinary catheter is not used for female patients?",
+        "options_text": "16 Fr | 18 Fr | 12 Fr | 14 Fr",
+        "correct_option_text": "18 Fr",
+        "question_id_competency_definition": "catheter sizes unsuitable for female patients",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66391",
+      "embedding_text": "Question: Which of the following general instructions about catheterization is true\n                        Correct Answer: The urobag should always be kept below the level of bladder.\n                        Learning Objective: general safety principles related to urinary catheterization\n                        All Options: Urobag should be changed every 24 hours | Ringer Lactate should be used to flush the catheter | The urobag should always be kept below the level of bladder. | Sterile technique is not necessary for catheterization\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66391",
+        "question_text": "Which of the following general instructions about catheterization is true",
+        "options_text": "Urobag should be changed every 24 hours | Ringer Lactate should be used to flush the catheter | The urobag should always be kept below the level of bladder. | Sterile technique is not necessary for catheterization",
+        "correct_option_text": "The urobag should always be kept below the level of bladder.",
+        "question_id_competency_definition": "general safety principles related to urinary catheterization",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66386",
+      "embedding_text": "Question: Which of the following has an inflatable balloon at the tip that helps anchor the catheter in its place\n                        Correct Answer: Indwelling catheter\n                        Learning Objective: devices containing inflatable balloons for internal anchoring\n                        All Options: Ryles tube | Nasogastric tube | Indwelling catheter | Intermittent catheter\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66386",
+        "question_text": "Which of the following has an inflatable balloon at the tip that helps anchor the catheter in its place",
+        "options_text": "Ryles tube | Nasogastric tube | Indwelling catheter | Intermittent catheter",
+        "correct_option_text": "Indwelling catheter",
+        "question_id_competency_definition": "devices containing inflatable balloons for internal anchoring",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66385",
+      "embedding_text": "Question: Which of the following is an indication for urinary catheterization for diagnostic purposes\n                        Correct Answer: Imaging studies of UTI\n                        Learning Objective: diagnostic indications for urinary catheterization\n                        All Options: Imaging studies of UTI | Relieve urinary retention | Instillation of medication | Hydronephrosis\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66385",
+        "question_text": "Which of the following is an indication for urinary catheterization for diagnostic purposes",
+        "options_text": "Imaging studies of UTI | Relieve urinary retention | Instillation of medication | Hydronephrosis",
+        "correct_option_text": "Imaging studies of UTI",
+        "question_id_competency_definition": "diagnostic indications for urinary catheterization",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2507",
+      "embedding_text": "Question: Why are there two lumens in a Foley catheter?\n                        Correct Answer: One to drain urine and other to inflate balloon\n                        Learning Objective: functional purpose of dual lumens in a Foley catheter\n                        All Options: One to drain urine and other to inflate balloon | One to drain urine and other to administer medication | One to administer medication and other to inflate balloon | Both to drain urine\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2507",
+        "question_text": "Why are there two lumens in a Foley catheter?",
+        "options_text": "One to drain urine and other to inflate balloon | One to drain urine and other to administer medication | One to administer medication and other to inflate balloon | Both to drain urine",
+        "correct_option_text": "One to drain urine and other to inflate balloon",
+        "question_id_competency_definition": "functional purpose of dual lumens in a Foley catheter",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66404",
+      "embedding_text": "Question: A urine specimen is needed to test for the presence of ketones in a client who is diabetic. What should the nurse do when collecting this specimen from a urinary retention catheter?\n                        Correct Answer: Clamp the catheter, cleanse the port, and use a sterile syringe to remove urine.\n                        Learning Objective: urine specimens aseptically from a retention catheter using the sampling port\n                        All Options: Disconnect the catheter and drain the urine into a clean container. | Clean the drainage valve and remove the urine from the catheter bag. | Wipe the catheter with alcohol and drain the urine into a sterile test tube. | Clamp the catheter, cleanse the port, and use a sterile syringe to remove urine.\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66404",
+        "question_text": "A urine specimen is needed to test for the presence of ketones in a client who is diabetic. What should the nurse do when collecting this specimen from a urinary retention catheter?",
+        "options_text": "Disconnect the catheter and drain the urine into a clean container. | Clean the drainage valve and remove the urine from the catheter bag. | Wipe the catheter with alcohol and drain the urine into a sterile test tube. | Clamp the catheter, cleanse the port, and use a sterile syringe to remove urine.",
+        "correct_option_text": "Clamp the catheter, cleanse the port, and use a sterile syringe to remove urine.",
+        "question_id_competency_definition": "urine specimens aseptically from a retention catheter using the sampling port",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66384",
+      "embedding_text": "Question: All the statements about urinary catheterization are true except\n                        Correct Answer: It is not an invasive procedure\n                        Learning Objective: purpose indications and invasive nature of urinary catheterization\n                        All Options: It relieves retention of urine | It is not an invasive procedure | It helps obtain urine sample | It helps in monitoring the urinary output\n                        Competency: Introduction to Urinary Catheterization (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66384",
+        "question_text": "All the statements about urinary catheterization are true except",
+        "options_text": "It relieves retention of urine | It is not an invasive procedure | It helps obtain urine sample | It helps in monitoring the urinary output",
+        "correct_option_text": "It is not an invasive procedure",
+        "question_id_competency_definition": "purpose indications and invasive nature of urinary catheterization",
+        "competency_id": "UCK001",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Introduction to Urinary Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3170",
+      "embedding_text": "Question: The catheter slips into the vagina during a straight catheterization of a female patient. Which action by the nurse is appropriate?\n                        Correct Answer: Leaves the catheter in place and gets a new sterile catheter\n                        Learning Objective: correct nursing action when catheter placement enters the vagina accidentally\n                        All Options: Removes the catheter and redirects it to the urinary meatus | Removes the catheter, wipes it with a sterile gauze and redirects it to the urinary  meatus | Leaves the catheter in place and gets a new sterile catheter | Leaves the catheter in place and asks another nurse to attempt the procedure\n                        Competency: Female Catheterization Procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3170",
+        "question_text": "The catheter slips into the vagina during a straight catheterization of a female patient. Which action by the nurse is appropriate?",
+        "options_text": "Removes the catheter and redirects it to the urinary meatus | Removes the catheter, wipes it with a sterile gauze and redirects it to the urinary  meatus | Leaves the catheter in place and gets a new sterile catheter | Leaves the catheter in place and asks another nurse to attempt the procedure",
+        "correct_option_text": "Leaves the catheter in place and gets a new sterile catheter",
+        "question_id_competency_definition": "correct nursing action when catheter placement enters the vagina accidentally",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66392",
+      "embedding_text": "Question: Identify the correct sequence of procedure for urinary catheterization\n                        Correct Answer: Position appropriately, set up the sterile field, drape the patient, clean from outer to inner, insert catheter, inflate distal balloon, attach and secure\n                        Learning Objective: correct sequential steps of the urinary catheterization procedure\n                        All Options: Position appropriately, set up the sterile field, drape the patient, clean from outer to inner, insert catheter, inflate distal balloon, attach and secure | Drape patient, provide position, clean from inside out, inflate distal balloon, attach and secure | Set up the sterile field, position the patient, clean from inside out, insert catheter, attach and secure | Position appropriately, set up the sterile field, drape the patient, clean from urinary meatus to outside, insert catheter, attach and secure, inflate distal balloon,\n                        Competency: Female Catheterization Procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66392",
+        "question_text": "Identify the correct sequence of procedure for urinary catheterization",
+        "options_text": "Position appropriately, set up the sterile field, drape the patient, clean from outer to inner, insert catheter, inflate distal balloon, attach and secure | Drape patient, provide position, clean from inside out, inflate distal balloon, attach and secure | Set up the sterile field, position the patient, clean from inside out, insert catheter, attach and secure | Position appropriately, set up the sterile field, drape the patient, clean from urinary meatus to outside, insert catheter, attach and secure, inflate distal balloon,",
+        "correct_option_text": "Position appropriately, set up the sterile field, drape the patient, clean from outer to inner, insert catheter, inflate distal balloon, attach and secure",
+        "question_id_competency_definition": "correct sequential steps of the urinary catheterization procedure",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2502",
+      "embedding_text": "Question: In the procedure for inserting an indwelling catheter, after urine appears in the tubing, the catheter is advanced additional 2-inches in order to:\n                        Correct Answer: Minimize the risk for balloon inflation in the urethra.\n                        Learning Objective: rationale for advancing the catheter further before balloon inflation\n                        All Options: Minimize the risk for balloon inflation in the urethra. | Increase the amount of urine drained. | Stimulate normal bladder contraction. | Promote Bladder Tone\n                        Competency: Female Catheterization Procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2502",
+        "question_text": "In the procedure for inserting an indwelling catheter, after urine appears in the tubing, the catheter is advanced additional 2-inches in order to:",
+        "options_text": "Minimize the risk for balloon inflation in the urethra. | Increase the amount of urine drained. | Stimulate normal bladder contraction. | Promote Bladder Tone",
+        "correct_option_text": "Minimize the risk for balloon inflation in the urethra.",
+        "question_id_competency_definition": "rationale for advancing the catheter further before balloon inflation",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66394",
+      "embedding_text": "Question: Inflation of the balloon should be withheld if the patient complains of\n                        Correct Answer: Severe pain while inflating the balloon\n                        Learning Objective: patient responses indicating balloon inflation should be stopped immediately\n                        All Options: Severe pain while inflating the balloon | Nausea and vomiting | Incontinence | Bleeding per rectum\n                        Competency: Female Catheterization Procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66394",
+        "question_text": "Inflation of the balloon should be withheld if the patient complains of",
+        "options_text": "Severe pain while inflating the balloon | Nausea and vomiting | Incontinence | Bleeding per rectum",
+        "correct_option_text": "Severe pain while inflating the balloon",
+        "question_id_competency_definition": "patient responses indicating balloon inflation should be stopped immediately",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2506",
+      "embedding_text": "Question: What position is a female patient in for catheterization?\n                        Correct Answer: Dorsal recumbent\n                        Learning Objective: correct positioning of a female patient for catheterization\n                        All Options: Dorsal recumbent | High fowler | Sims position | Knee chest position\n                        Competency: Female Catheterization Procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2506",
+        "question_text": "What position is a female patient in for catheterization?",
+        "options_text": "Dorsal recumbent | High fowler | Sims position | Knee chest position",
+        "correct_option_text": "Dorsal recumbent",
+        "question_id_competency_definition": "correct positioning of a female patient for catheterization",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66388",
+      "embedding_text": "Question: The purpose of inflatable balloon at the tip of an indwelling catheter is to-\n                        Correct Answer: Hold the catheter in place once inflated\n                        Learning Objective: function of the inflatable balloon in an indwelling catheter\n                        All Options: Hold the catheter in place once inflated | Give shape to the catheter | Protect the adjacent lying structures | Collect urine specimen\n                        Competency: Female Catheterization Procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66388",
+        "question_text": "The purpose of inflatable balloon at the tip of an indwelling catheter is to-",
+        "options_text": "Hold the catheter in place once inflated | Give shape to the catheter | Protect the adjacent lying structures | Collect urine specimen",
+        "correct_option_text": "Hold the catheter in place once inflated",
+        "question_id_competency_definition": "function of the inflatable balloon in an indwelling catheter",
+        "competency_id": "UCS002",
+        "competency_type": "Skill",
+        "module_compentency_area": "Female Catheterization Procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2505",
+      "embedding_text": "Question: What should you do to the foreskin when catheterizing?\n                        Correct Answer: Retract it and clean it before catheterization\n                        Learning Objective: proper foreskin management during male catheterization\n                        All Options: Retract it and clean it before catheterization | never retract the skin\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2505",
+        "question_text": "What should you do to the foreskin when catheterizing?",
+        "options_text": "Retract it and clean it before catheterization | never retract the skin",
+        "correct_option_text": "Retract it and clean it before catheterization",
+        "question_id_competency_definition": "proper foreskin management during male catheterization",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3171",
+      "embedding_text": "Question: How many centimeters should the urinary catheter be advanced in a male?\n                        Correct Answer: 15-25 cm\n                        Learning Objective: Advances a urinary catheter to the correct anatomical depth in male patients\n                        All Options: 5-6 cm | 10-14 cm | 2-5 cm | 15-25 cm\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3171",
+        "question_text": "How many centimeters should the urinary catheter be advanced in a male?",
+        "options_text": "5-6 cm | 10-14 cm | 2-5 cm | 15-25 cm",
+        "correct_option_text": "15-25 cm",
+        "question_id_competency_definition": "Advances a urinary catheter to the correct anatomical depth in male patients",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66402",
+      "embedding_text": "Question: The primary reason for lubricating the urinary catheter generously before inserting the catheter into a male client is that this technique helps reduce:\n                        Correct Answer: Friction along the urethra when the catheter is being inserted.\n                        Learning Objective: purpose of lubrication during male urinary catheter insertion\n                        All Options: Spasms at the orifice of the bladder. | Friction along the urethra when the catheter is being inserted. | The number of organisms gaining entrance to the bladder. | The formation of encrustations that may occur at the end of the catheter.\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66402",
+        "question_text": "The primary reason for lubricating the urinary catheter generously before inserting the catheter into a male client is that this technique helps reduce:",
+        "options_text": "Spasms at the orifice of the bladder. | Friction along the urethra when the catheter is being inserted. | The number of organisms gaining entrance to the bladder. | The formation of encrustations that may occur at the end of the catheter.",
+        "correct_option_text": "Friction along the urethra when the catheter is being inserted.",
+        "question_id_competency_definition": "purpose of lubrication during male urinary catheter insertion",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66401",
+      "embedding_text": "Question: The primary reason for taping an indwelling catheter laterally to the thigh of a male client is to:\n                        Correct Answer: Eliminate pressure at the penoscrotal angle.\n                        Learning Objective: lateral fixation of a male indwelling urinary catheter\n                        All Options: Eliminate pressure at the penoscrotal angle. | Prevent the catheter from kinking in the urethra. | Prevent accidental catheter removal. | Allow the client to turn without kinking the catheter.\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66401",
+        "question_text": "The primary reason for taping an indwelling catheter laterally to the thigh of a male client is to:",
+        "options_text": "Eliminate pressure at the penoscrotal angle. | Prevent the catheter from kinking in the urethra. | Prevent accidental catheter removal. | Allow the client to turn without kinking the catheter.",
+        "correct_option_text": "Eliminate pressure at the penoscrotal angle.",
+        "question_id_competency_definition": "lateral fixation of a male indwelling urinary catheter",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66400",
+      "embedding_text": "Question: Which nursing action can best prevent infection from a urinary retention catheter?\n                        Correct Answer: Cleansing around the meatus routinely\n                        Learning Objective: nursing interventions that reduce infection risk in urinary retention catheters\n                        All Options: Changing the catheter daily | Encouraging adequate fluids | Irrigating the catheter once daily | Cleansing around the meatus routinely\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66400",
+        "question_text": "Which nursing action can best prevent infection from a urinary retention catheter?",
+        "options_text": "Changing the catheter daily | Encouraging adequate fluids | Irrigating the catheter once daily | Cleansing around the meatus routinely",
+        "correct_option_text": "Cleansing around the meatus routinely",
+        "question_id_competency_definition": "nursing interventions that reduce infection risk in urinary retention catheters",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66393",
+      "embedding_text": "Question: Which position is preferred in male patients to perform catheterization?\n                        Correct Answer: Supine position with thighs slightly abducted\n                        Learning Objective: correct position for male urinary catheter insertion\n                        All Options: Dorsal recumbent with thighs inward rotated | Supine position with thighs slightly abducted | Prone position | Trendelenburg position\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66393",
+        "question_text": "Which position is preferred in male patients to perform catheterization?",
+        "options_text": "Dorsal recumbent with thighs inward rotated | Supine position with thighs slightly abducted | Prone position | Trendelenburg position",
+        "correct_option_text": "Supine position with thighs slightly abducted",
+        "question_id_competency_definition": "correct position for male urinary catheter insertion",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3178",
+      "embedding_text": "Question: Why should a catheter drainage bag be kept below the level of the bladder?\n                        Correct Answer: It prevents urine from flowing back into the bladder and causing an infection\n                        Learning Objective: rationale for keeping the drainage bag below bladder level to prevent infection\n                        All Options: It prevents urine from flowing back into the bladder and causing an infection | The bag is likely to leak if it is held higher than the bladder | The tubing can disconnect from the catheter if it is kept higher than the level of the bladder | The tubing may kink and cause safety hazard to the patient\n                        Competency: Male Catheterization (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3178",
+        "question_text": "Why should a catheter drainage bag be kept below the level of the bladder?",
+        "options_text": "It prevents urine from flowing back into the bladder and causing an infection | The bag is likely to leak if it is held higher than the bladder | The tubing can disconnect from the catheter if it is kept higher than the level of the bladder | The tubing may kink and cause safety hazard to the patient",
+        "correct_option_text": "It prevents urine from flowing back into the bladder and causing an infection",
+        "question_id_competency_definition": "rationale for keeping the drainage bag below bladder level to prevent infection",
+        "competency_id": "UCS003",
+        "competency_type": "Skill",
+        "module_compentency_area": "Male Catheterization",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3177",
+      "embedding_text": "Question: State if “True” or “False”.During catheter care, gloves only need to be worn if you are emptying the urine drainage bag.\n                        Correct Answer: False\n                        Learning Objective: infection-control precautions required during catheter care\n                        All Options: True | False\n                        Competency: Catheter care (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3177",
+        "question_text": "State if “True” or “False”.During catheter care, gloves only need to be worn if you are emptying the urine drainage bag.",
+        "options_text": "True | False",
+        "correct_option_text": "False",
+        "question_id_competency_definition": "infection-control precautions required during catheter care",
+        "competency_id": "UCK004",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Catheter care",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3180",
+      "embedding_text": "Question: Which of the following is true for providing catheter care?\n                        Correct Answer: Observe the area for any signs of irritation or problems with the tubing\n                        Learning Objective: correct principles of routine catheter care\n                        All Options: Clean the only the first 1 to 2 inches of the catheter tubing | Wipe towards the meatus | Use a paper towel to dry the catheter tubing | Observe the area for any signs of irritation or problems with the tubing\n                        Competency: Catheter care (Knowledge)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3180",
+        "question_text": "Which of the following is true for providing catheter care?",
+        "options_text": "Clean the only the first 1 to 2 inches of the catheter tubing | Wipe towards the meatus | Use a paper towel to dry the catheter tubing | Observe the area for any signs of irritation or problems with the tubing",
+        "correct_option_text": "Observe the area for any signs of irritation or problems with the tubing",
+        "question_id_competency_definition": "correct principles of routine catheter care",
+        "competency_id": "UCK004",
+        "competency_type": "Knowledge",
+        "module_compentency_area": "Catheter care",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66403",
+      "embedding_text": "Question: A nurse is caring for a client with an indwelling urinary catheter. What is the most important action for the nurse to implement when irrigating the bladder?\n                        Correct Answer: Use sterile equipment.\n                        Learning Objective: sterile technique while irrigating an indwelling urinary catheter to prevent infection\n                        All Options: Use sterile equipment. | Instill the fluid under high pressure. | Warm the solution to body temperature. | Aspirate immediately to ensure return flow.\n                        Competency: Catheter care procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66403",
+        "question_text": "A nurse is caring for a client with an indwelling urinary catheter. What is the most important action for the nurse to implement when irrigating the bladder?",
+        "options_text": "Use sterile equipment. | Instill the fluid under high pressure. | Warm the solution to body temperature. | Aspirate immediately to ensure return flow.",
+        "correct_option_text": "Use sterile equipment.",
+        "question_id_competency_definition": "sterile technique while irrigating an indwelling urinary catheter to prevent infection",
+        "competency_id": "UCS005",
+        "competency_type": "Skill",
+        "module_compentency_area": "Catheter care procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3179",
+      "embedding_text": "Question: How should a drainage bag be emptied?\n                        Correct Answer: Into a measuring jug and then poured into the toilet\n                        Learning Objective: safe and hygienic emptying of a urinary drainage bag\n                        All Options: Into a pitcher and poured down the sink | Into a measuring jug and then poured into the toilet | Drained directly into a 24-hr specimen container | Disconnected from the catheter tubing and released directly into the toilet\n                        Competency: Catheter care procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3179",
+        "question_text": "How should a drainage bag be emptied?",
+        "options_text": "Into a pitcher and poured down the sink | Into a measuring jug and then poured into the toilet | Drained directly into a 24-hr specimen container | Disconnected from the catheter tubing and released directly into the toilet",
+        "correct_option_text": "Into a measuring jug and then poured into the toilet",
+        "question_id_competency_definition": "safe and hygienic emptying of a urinary drainage bag",
+        "competency_id": "UCS005",
+        "competency_type": "Skill",
+        "module_compentency_area": "Catheter care procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66398",
+      "embedding_text": "Question: In a female patient with indwelling catheter the catheter care should be performed in which of the following correct sequence\n                        Correct Answer: Urinary meatus, labia minora, labia majora, catheter\n                        Learning Objective: female indwelling catheter care in the correct anatomical sequence\n                        All Options: Urinary meatus, labia minora, labia majora, catheter | Catheter, urinary meatus, labia majora, labia minora | Urobag, catheter, labia majora | Labia minora, labia majora, perineum, catheter\n                        Competency: Catheter care procedure (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66398",
+        "question_text": "In a female patient with indwelling catheter the catheter care should be performed in which of the following correct sequence",
+        "options_text": "Urinary meatus, labia minora, labia majora, catheter | Catheter, urinary meatus, labia majora, labia minora | Urobag, catheter, labia majora | Labia minora, labia majora, perineum, catheter",
+        "correct_option_text": "Urinary meatus, labia minora, labia majora, catheter",
+        "question_id_competency_definition": "female indwelling catheter care in the correct anatomical sequence",
+        "competency_id": "UCS005",
+        "competency_type": "Skill",
+        "module_compentency_area": "Catheter care procedure",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "3175",
+      "embedding_text": "Question: What should a nurse do immediately after an indwelling catheter is removed?\n                        Correct Answer: Observe the catheter for any sediments, mucous or blood\n                        Learning Objective: immediate post-removal assessment of an indwelling urinary catheter\n                        All Options: Rinse it and send for sterilization | Observe the catheter for any sediments, mucous or blood | Cut and discard in the appropriate color coded bin | Document the procedure\n                        Competency: Removal of indwelling urinary catheter (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "3175",
+        "question_text": "What should a nurse do immediately after an indwelling catheter is removed?",
+        "options_text": "Rinse it and send for sterilization | Observe the catheter for any sediments, mucous or blood | Cut and discard in the appropriate color coded bin | Document the procedure",
+        "correct_option_text": "Observe the catheter for any sediments, mucous or blood",
+        "question_id_competency_definition": "immediate post-removal assessment of an indwelling urinary catheter",
+        "competency_id": "UCS006",
+        "competency_type": "Skill",
+        "module_compentency_area": "Removal of indwelling urinary catheter",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "2500",
+      "embedding_text": "Question: lndwelling catheters are designed to:\n                        Correct Answer: Rest securely in the bladder for a limited amount of time.\n                        Learning Objective: purpose and function of indwelling urinary catheters\n                        All Options: Use for straight cath to obtain a urine specimen | Use for a patient who is incontinent | Has no balloon for securing in the bladder | Rest securely in the bladder for a limited amount of time.\n                        Competency: Removal of indwelling urinary catheter (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "2500",
+        "question_text": "lndwelling catheters are designed to:",
+        "options_text": "Use for straight cath to obtain a urine specimen | Use for a patient who is incontinent | Has no balloon for securing in the bladder | Rest securely in the bladder for a limited amount of time.",
+        "correct_option_text": "Rest securely in the bladder for a limited amount of time.",
+        "question_id_competency_definition": "purpose and function of indwelling urinary catheters",
+        "competency_id": "UCS006",
+        "competency_type": "Skill",
+        "module_compentency_area": "Removal of indwelling urinary catheter",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    },
+    {
+      "id": "66399",
+      "embedding_text": "Question: Which among these is not the indication for removal of an indwelling catheter:\n                        Correct Answer: Promote incontinence\n                        Learning Objective: appropriate and inappropriate indications for removal of an indwelling catheter\n                        All Options: Promote normal bladder function | Prevent infection | Prevent trauma to urethra | Promote incontinence\n                        Competency: Removal of indwelling urinary catheter (Skill)",
+      "metadata": {
+        "doc_type": "mcq",
+        "question_id": "66399",
+        "question_text": "Which among these is not the indication for removal of an indwelling catheter:",
+        "options_text": "Promote normal bladder function | Prevent infection | Prevent trauma to urethra | Promote incontinence",
+        "correct_option_text": "Promote incontinence",
+        "question_id_competency_definition": "appropriate and inappropriate indications for removal of an indwelling catheter",
+        "competency_id": "UCS006",
+        "competency_type": "Skill",
+        "module_compentency_area": "Removal of indwelling urinary catheter",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    }
+  ],
+  "checklists": [
+    {
+      "id": "158105",
+      "embedding_text": "Procedural Checklist: Perform the Urinary Catheterization procedure checklist in the correct sequence.\n                        Competency: Procedural Skills (Skill)\n                        Correct sequence (11 steps):\n                        1. Check patient identification with name and Hosp No\n2. Explained the procedure to the patient to gain co-operation. Assembled the articles near the bedside\n3. Provided privacy. Washed hands & put on sterile gloves\n4. Cleaned the perineum using antiseptic lotion with forceps. One stroke from up to down with one gauze\n5. Opened outer plastic cover of the catheter in such a way that inner cover is not contaminated and slide it into the catheterization pack\n6. Instructed patient to take a deep breath and relax. Inserted the catheter about  5 to 7.5cms\n7. If retention catheter is required, introduced sterile distilled water into inflate the balloon\n8. Pulled the catheter slightly outward to ascertain stability\n9. Connected the urobag for continuous urinary drainage and kept below the level of bladder\n10. Checked the colour of the urine. Make the patient comfortable and replaced the equipment\n11. Recorded the colour, amount and any abnormality of urine",
+      "metadata": {
+        "doc_type": "checklist",
+        "question_id": "158105",
+        "question_text": "Perform the Urinary Catheterization procedure checklist in the correct sequence.",
+        "total_steps": 11,
+        "steps": "[{\"step_number\": 1, \"step_text\": \"Check patient identification with name and Hosp No\"}, {\"step_number\": 2, \"step_text\": \"Explained the procedure to the patient to gain co-operation. Assembled the articles near the bedside\"}, {\"step_number\": 3, \"step_text\": \"Provided privacy. Washed hands & put on sterile gloves\"}, {\"step_number\": 4, \"step_text\": \"Cleaned the perineum using antiseptic lotion with forceps. One stroke from up to down with one gauze\"}, {\"step_number\": 5, \"step_text\": \"Opened outer plastic cover of the catheter in such a way that inner cover is not contaminated and slide it into the catheterization pack\"}, {\"step_number\": 6, \"step_text\": \"Instructed patient to take a deep breath and relax. Inserted the catheter about  5 to 7.5cms\"}, {\"step_number\": 7, \"step_text\": \"If retention catheter is required, introduced sterile distilled water into inflate the balloon\"}, {\"step_number\": 8, \"step_text\": \"Pulled the catheter slightly outward to ascertain stability\"}, {\"step_number\": 9, \"step_text\": \"Connected the urobag for continuous urinary drainage and kept below the level of bladder\"}, {\"step_number\": 10, \"step_text\": \"Checked the colour of the urine. Make the patient comfortable and replaced the equipment\"}, {\"step_number\": 11, \"step_text\": \"Recorded the colour, amount and any abnormality of urine\"}]",
+        "competency_type": "Skill",
+        "course_id": "341",
+        "competency_name": "Urinary Catheterization",
+        "module_domain": "Evidence Informed Practice"
+      }
+    }
+  ],
+  "total_vectors": 48
+}
