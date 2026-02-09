@@ -1,8 +1,3 @@
-"""
-Build Vector Store for MedLearn Module
-Simple script to create ChromaDB from preprocessed module data.
-"""
-
 import json
 import logging
 from pathlib import Path
@@ -112,22 +107,22 @@ logger.info(f" Final vector count: {vectorstore._collection.count()}")
 logger.info(f" Saved to: {CHROMA_DIR}/{collection_name}")
 
 
-logger.info("\nTesting vectorstore with sample query...")
+# logger.info("\nTesting vectorstore with sample query...")
 
-test_query = "catheter balloon inflation procedure"
-results = vectorstore.similarity_search(
-    test_query,
-    k=3,
-    filter={"doc_type": "mcq"}
-)
+# test_query = "catheter balloon inflation procedure"
+# results = vectorstore.similarity_search(
+#     test_query,
+#     k=3,
+#     filter={"doc_type": "mcq"}
+# )
 
-logger.info(f"Query: '{test_query}'")
-logger.info(f"Found {len(results)} results:\n")
+# logger.info(f"Query: '{test_query}'")
+# logger.info(f"Found {len(results)} results:\n")
 
-for i, result in enumerate(results, 1):
-    print(f"{i}. Question ID: {result.metadata.get('question_id')}")
-    print(f"   Type: {result.metadata.get('doc_type')}")
-    print(f"   Preview: {result.page_content[:100]}...")
-    print()
+# for i, result in enumerate(results, 1):
+#     print(f"{i}. Question ID: {result.metadata.get('question_id')}")
+#     print(f"   Type: {result.metadata.get('doc_type')}")
+#     print(f"   Preview: {result.page_content[:100]}...")
+#     print()
 
 logger.info(" All done!")

@@ -1,8 +1,3 @@
-"""
-Preprocess Module Data for MedLearn
-Transforms raw module JSON into structured format for vector database.
-"""
-
 import json
 import re
 import logging
