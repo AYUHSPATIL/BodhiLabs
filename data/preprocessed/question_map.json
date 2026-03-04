@@ -1,0 +1,215 @@
+{
+  "course_id": "341",
+  "question_map": {
+    "66387": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "2503": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "2501": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "3174": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "3173": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "2504": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "82153": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66389": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "3176": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66397": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66395": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66383": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "3172": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "3169": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66391": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66386": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66385": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "2507": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66404": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "66384": {
+      "competency_id": "UCK001",
+      "competency_type": "Knowledge",
+      "competency_area": "Introduction to Urinary Catheterization"
+    },
+    "3170": {
+      "competency_id": "UCS002",
+      "competency_type": "Skill",
+      "competency_area": "Female Catheterization Procedure"
+    },
+    "66392": {
+      "competency_id": "UCS002",
+      "competency_type": "Skill",
+      "competency_area": "Female Catheterization Procedure"
+    },
+    "2502": {
+      "competency_id": "UCS002",
+      "competency_type": "Skill",
+      "competency_area": "Female Catheterization Procedure"
+    },
+    "66394": {
+      "competency_id": "UCS002",
+      "competency_type": "Skill",
+      "competency_area": "Female Catheterization Procedure"
+    },
+    "2506": {
+      "competency_id": "UCS002",
+      "competency_type": "Skill",
+      "competency_area": "Female Catheterization Procedure"
+    },
+    "66388": {
+      "competency_id": "UCS002",
+      "competency_type": "Skill",
+      "competency_area": "Female Catheterization Procedure"
+    },
+    "2505": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "3171": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "66402": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "66401": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "66400": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "66393": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "3178": {
+      "competency_id": "UCS003",
+      "competency_type": "Skill",
+      "competency_area": "Male Catheterization"
+    },
+    "3177": {
+      "competency_id": "UCK004",
+      "competency_type": "Knowledge",
+      "competency_area": "Catheter care"
+    },
+    "3180": {
+      "competency_id": "UCK004",
+      "competency_type": "Knowledge",
+      "competency_area": "Catheter care"
+    },
+    "66403": {
+      "competency_id": "UCS005",
+      "competency_type": "Skill",
+      "competency_area": "Catheter care procedure"
+    },
+    "3179": {
+      "competency_id": "UCS005",
+      "competency_type": "Skill",
+      "competency_area": "Catheter care procedure"
+    },
+    "66398": {
+      "competency_id": "UCS005",
+      "competency_type": "Skill",
+      "competency_area": "Catheter care procedure"
+    },
+    "3175": {
+      "competency_id": "UCS006",
+      "competency_type": "Skill",
+      "competency_area": "Removal of indwelling urinary catheter"
+    },
+    "2500": {
+      "competency_id": "UCS006",
+      "competency_type": "Skill",
+      "competency_area": "Removal of indwelling urinary catheter"
+    },
+    "66399": {
+      "competency_id": "UCS006",
+      "competency_type": "Skill",
+      "competency_area": "Removal of indwelling urinary catheter"
+    },
+    "158105": {
+      "competency_id": "UCS006",
+      "competency_type": "Skill",
+      "competency_area": "Removal of indwelling urinary catheter"
+    }
+  }
+}
